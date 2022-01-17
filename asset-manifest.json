@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Porfolio/static/css/main.c47c21c5.css",
-    "main.js": "/Porfolio/static/js/main.f032b822.js",
+    "main.css": "/Porfolio/static/css/main.21d711ba.css",
+    "main.js": "/Porfolio/static/js/main.07aeb3ec.js",
     "static/js/787.edd59a96.chunk.js": "/Porfolio/static/js/787.edd59a96.chunk.js",
     "static/media/profile-img.jpg": "/Porfolio/static/media/profile-img.f3ddf8f35fb1b0428c36.jpg",
     "static/media/project1.png": "/Porfolio/static/media/project1.ea178679201515d7c3b7.png",
@@ -12,17 +12,18 @@
     "static/media/react.png": "/Porfolio/static/media/react.464a6a0cc6faefb72cb4.png",
     "static/media/redux.png": "/Porfolio/static/media/redux.b1b89f8c6e2ea3ef5250.png",
     "static/media/postgres.png": "/Porfolio/static/media/postgres.709e9acd66b4a315c660.png",
+    "static/media/inprogres.png": "/Porfolio/static/media/inprogres.3cdab75c72659b6c5ae0.png",
     "static/media/js.png": "/Porfolio/static/media/js.75220e22aacfddc29275.png",
     "static/media/css.png": "/Porfolio/static/media/css.c984646dd943ca36f07c.png",
     "static/media/git.png": "/Porfolio/static/media/git.5b8e5cbb82050a14b364.png",
     "static/media/sequelize.png": "/Porfolio/static/media/sequelize.aeca8b075254d4c733d0.png",
     "index.html": "/Porfolio/index.html",
-    "main.c47c21c5.css.map": "/Porfolio/static/css/main.c47c21c5.css.map",
-    "main.f032b822.js.map": "/Porfolio/static/js/main.f032b822.js.map",
+    "main.21d711ba.css.map": "/Porfolio/static/css/main.21d711ba.css.map",
+    "main.07aeb3ec.js.map": "/Porfolio/static/js/main.07aeb3ec.js.map",
     "787.edd59a96.chunk.js.map": "/Porfolio/static/js/787.edd59a96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c47c21c5.css",
-    "static/js/main.f032b822.js"
+    "static/css/main.21d711ba.css",
+    "static/js/main.07aeb3ec.js"
   ]
 }

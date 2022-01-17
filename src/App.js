@@ -1,6 +1,6 @@
 import './App.css';
 import { About } from './components/About/About';
-import Contact from './components/Contact.js/Contact';
+import Contact from './components/Contact/Contact';
 import Navegation from "./components/Navbar/Navegation";
 import { Projects } from './components/Projects/Projects';
 import Skills from './components/Skills/Skills';

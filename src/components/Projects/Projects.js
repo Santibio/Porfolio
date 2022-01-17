@@ -1,15 +1,19 @@
 import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 import img1 from "../../images/project1.png";
+import inprogress from '../../images/inprogres.png'
 import img3 from "../../images/project3.png";
-import { Link } from "react-router-dom";
+
 
 export const Projects = () => {
   return (
-    <Container className="mt-5">
+    <Container className="mt-5" id="Projects">
+      <Row className="mt-3">
+        <h2>Projects</h2>
+      </Row>
       <Row>
         <Col lg="4" className="d-flex justify-content-center mt-4">
-          <Card style={{ width: "30vw" }}>
+          <Card style={{ width: "25rem" }}>
             <Card.Img variant="top" src={img1} />
             <Card.Body>
               <Card.Title>Food App</Card.Title>
@@ -40,8 +44,8 @@ export const Projects = () => {
           </Card>
         </Col>
         <Col lg="4" className="d-flex justify-content-center mt-4 ">
-          <Card style={{ width: "30vw" }}>
-            <Card.Img variant="top" src={img1} />
+          <Card style={{ width: "25rem" }}>
+            <Card.Img variant="top" src={inprogress} height="200px"  />
             <Card.Body>
               <Card.Title>Weather App</Card.Title>
               <Card.Text>
@@ -57,20 +61,23 @@ export const Projects = () => {
                   <li>MUI</li>
                 </ul>
               </div>
-              <Button variant="primary">
-                <a
+              <Button
+                variant="primary"
+                onClick={(e) => alert("In progress...")}
+              >
+                {/* <a
                   href="https://shielded-taiga-37015.herokuapp.com/"
                   target="_blank"
                   rel="noreferrer"
-                >
-                  Go to the page
-                </a>
+                > */}
+                Go to the page
+                {/*    </a> */}
               </Button>
             </Card.Body>
           </Card>
         </Col>
         <Col lg="4" className="d-flex justify-content-center mt-4 ">
-          <Card style={{ width: "30vw" }}>
+          <Card style={{ width: "25remm" }}>
             <Card.Img variant="top" src={img3} />
             <Card.Body>
               <Card.Title>Todo App</Card.Title>

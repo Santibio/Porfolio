@@ -11,7 +11,7 @@ export const About = () => {
           <Col lg="6">
             <h1>Hello, my name is Santiago</h1>
             <p>
-              I'm a software developer and in this pofolio is a representation
+              I'm a software developer and in this porfolio you could find representation
               of all that I've learned and accomplished.
             </p>
             <a href={CV} target="_blank">

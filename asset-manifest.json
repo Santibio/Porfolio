@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.c47c21c5.css",
+    "main.js": "/Porfolio/static/js/main.50ed7947.js",
+    "static/js/787.edd59a96.chunk.js": "/Porfolio/static/js/787.edd59a96.chunk.js",
+    "static/media/profile-img.jpg": "/Porfolio/static/media/profile-img.f3ddf8f35fb1b0428c36.jpg",
+    "static/media/project1.png": "/Porfolio/static/media/project1.ea178679201515d7c3b7.png",
+    "static/media/CV - Bioletto Santiago .pdf": "/Porfolio/static/media/CV - Bioletto Santiago .699d78b7ce7fe37be9dd.pdf",
+    "static/media/project3.png": "/Porfolio/static/media/project3.bd713cd9a83fac2f734e.png",
+    "index.html": "/Porfolio/index.html",
+    "main.c47c21c5.css.map": "/Porfolio/static/css/main.c47c21c5.css.map",
+    "main.50ed7947.js.map": "/Porfolio/static/js/main.50ed7947.js.map",
+    "787.edd59a96.chunk.js.map": "/Porfolio/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c47c21c5.css",
+    "static/js/main.50ed7947.js"
+  ]
+}
